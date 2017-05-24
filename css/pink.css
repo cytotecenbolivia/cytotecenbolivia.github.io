@@ -1453,3 +1453,13 @@ body {
 .original{
   margin-top: 20px;
 }
+
+.fh5co-nav-toggle{
+  display: none !important;
+}
+.tnumber{
+  font-size:1.7em;
+}
+.image-border{
+  border: 2px solid #F64662;
+}
