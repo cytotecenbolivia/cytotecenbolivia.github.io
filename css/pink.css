@@ -1463,3 +1463,9 @@ body {
 .image-border{
   border: 2px solid #F64662;
 }
+#fh5co-features{
+  padding: 2em 0 !important;
+}
+#fh5co-pricing{
+  padding: 0 !important;
+}
